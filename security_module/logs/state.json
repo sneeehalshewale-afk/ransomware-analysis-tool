@@ -1,0 +1,7 @@
+{
+  "status": "ISOLATED",
+  "risk": 100,
+  "isolated": true,
+  "isolated_at": "2026-09-01T15:39:23.016199",
+  "reason": "CANARY FILE MODIFIED"
+}
